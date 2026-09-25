@@ -377,10 +377,6 @@ Potential extensions include:
 
 ---
 
-
-
----
-
 ## Learning Outcomes
 
 This project demonstrates practical experience with:
