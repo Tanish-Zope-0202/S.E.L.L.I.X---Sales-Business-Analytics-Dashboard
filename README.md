@@ -1,4 +1,4 @@
-# Ledgerline — Sales & Business Analytics Dashboard
+# SELLIX — Sales & Business Analytics Dashboard
 
 A full-stack sales analytics dashboard that transforms raw CSV sales data into interactive business insights using **Python, Flask, Pandas, SQLite, SQL, JavaScript, and Chart.js**.
 
