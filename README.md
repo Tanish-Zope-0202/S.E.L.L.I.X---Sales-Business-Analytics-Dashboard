@@ -1,8 +1,8 @@
-# SELLIX — Sales & Business Analytics Dashboard
+# S.E.L.L.I.X — Sales & Business Analytics Dashboard
 
 A full-stack sales analytics dashboard that transforms raw CSV sales data into interactive business insights using **Python, Flask, Pandas, SQLite, SQL, JavaScript, and Chart.js**.
 
-Ledgerline allows users to upload sales data, automatically process and store it in a relational database, and explore revenue, sales volume, regional performance, product performance, and order-level data through an interactive dashboard.
+S.E.L.L.I.X allows users to upload sales data, automatically process and store it in a relational database, and explore revenue, sales volume, regional performance, product performance, and order-level data through an interactive dashboard.
 
 ---
 
@@ -10,7 +10,7 @@ Ledgerline allows users to upload sales data, automatically process and store it
 
 Businesses often have large amounts of sales data but need a simple way to turn that data into actionable insights.
 
-Ledgerline provides a lightweight analytics platform where users can:
+S.E.L.L.I.X provides a lightweight analytics platform where users can:
 
 - Upload sales data through CSV files
 - Automatically calculate revenue
@@ -185,7 +185,7 @@ sales-analytics-dashboard/
 
 ## CSV Format
 
-Ledgerline expects CSV files containing the following columns:
+S.E.L.L.I.X expects CSV files containing the following columns:
 
 ```csv
 order_date,region,category,product,quantity,unit_price
@@ -344,7 +344,7 @@ Chart.js is used for interactive data visualization.
 
 ## Example Use Cases
 
-Ledgerline can be used to analyze:
+S.E.L.L.I.X can be used to analyze:
 
 - Sales performance
 - Regional revenue distribution
@@ -374,6 +374,12 @@ Potential extensions include:
 - Cloud deployment
 - Automated tests
 - Advanced dashboard drill-downs
+
+---
+
+## Resume Description
+
+> **Sales & Business Analytics Dashboard** — Developed a full-stack analytics platform using Flask, Pandas, SQLite, SQL, JavaScript, and Chart.js to process CSV sales data, calculate business KPIs, provide interactive revenue and product visualizations, support dynamic filtering, and export filtered analytical reports through REST APIs.
 
 ---
 
