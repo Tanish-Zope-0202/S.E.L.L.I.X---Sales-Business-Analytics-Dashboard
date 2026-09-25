@@ -377,12 +377,6 @@ Potential extensions include:
 
 ---
 
-## Resume Description
-
-> **Sales & Business Analytics Dashboard** — Developed a full-stack analytics platform using Flask, Pandas, SQLite, SQL, JavaScript, and Chart.js to process CSV sales data, calculate business KPIs, provide interactive revenue and product visualizations, support dynamic filtering, and export filtered analytical reports through REST APIs.
-
----
-
 ## Learning Outcomes
 
 This project demonstrates practical experience with:
